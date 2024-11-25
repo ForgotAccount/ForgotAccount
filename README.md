@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Han 👋
+A highly motivated and results-oriented Senior Development Engineer with over 10 yrs of experience in C# development and 5 yrs of Experience in Java development from China. Proven ability to design, develop, and implement complex applications for industrial automation and logistics. Adept at leading and collaborating with teams to deliver innovative and efficient software solutions.
 <!--
 **ForgotAccount/ForgotAccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
